@@ -1,6 +1,3 @@
-Got it! Here’s a **fully detailed, professional README.md** for your Library Management System with badges, GIF placeholders, and instructions for Telegram API integration:
-
----
 
 ````markdown
 # 📚 Library Management System
