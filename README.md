@@ -1,5 +1,4 @@
 
-````markdown
 # 📚 Library Management System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge) 
